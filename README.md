@@ -6,7 +6,7 @@
 
 git clone https://github.com/NIKO-WAFLLE/Experiencia_Inmersiva_en_Unreal_Engine.git
 
-cd La_venganza_meow
+> acceder al repositorio clonado y instalar lo sigueinte
 
 git lfs install
 

@@ -4,7 +4,7 @@
 
 > Configuracion para instalar (dentro de la carpeta de los proyectos de unreal)
 
-git clone https://github.com/NIKO-WAFLLE/La_venganza_meow.git
+git clone https://github.com/NIKO-WAFLLE/Experiencia_Inmersiva_en_Unreal_Engine.git
 
 cd La_venganza_meow
 

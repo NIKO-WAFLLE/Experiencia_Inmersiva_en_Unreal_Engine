@@ -26,7 +26,7 @@ git commit -m "mensaje claro"
 
 git push
 
-> descargar cambios cuando da error
+> descargar cambios cuando da error (borra cambios locales)
 
 git restore .
 
